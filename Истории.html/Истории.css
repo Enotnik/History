@@ -1,0 +1,47 @@
+body{
+    background-image:url(https://bogatyr.club/uploads/posts/2023-03/1677870486_bogatyr-club-p-palmi-neon-foni-pinterest-78.jpg) ;
+    
+}
+.logo{
+    display: inline-block;
+    width: 30%;
+}
+header{
+    border: solid 5px;
+    color:rgb(255, 255, 255) ;
+    background-color: rgb(53, 30, 155);
+    width: 75%;
+    height: auto;
+}
+.Searh{
+    width: auto;
+    height: auto;
+    display: inline-block;
+}
+.Registr{
+   width: auto;
+   display: inline-block;
+   height: auto;
+   margin-left: 50%;
+}
+nav{
+    margin-top: 3%;
+    width: 15%;
+    height: 40%;
+    border-color: aliceblue;
+    backdrop-filter: blur(5px);
+    display: inline-block;
+    color: blueviolet;
+    backdrop-filter: blur(5px);
+}
+main{
+    display: inline-block;
+    margin-left: 10%;
+    
+}
+.A{
+    margin-top: 3%;
+}
+.S{
+    margin-top: 40%;
+}
